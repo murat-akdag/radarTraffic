@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 選択時 -->
+    <item android:drawable="@drawable/buton_changed" android:state_pressed="false"/>
+
+    <!-- 非選択時 -->
+    <item android:drawable="@drawable/buton_normal" android:state_pressed="true"/>
+
+</selector>

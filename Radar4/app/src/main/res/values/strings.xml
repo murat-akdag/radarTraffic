@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Radar</string>
+    <string name="status_disconnected">Bağlantı Yok</string>
+    <string name="status_connecting">Bağlanıyor&#8230;</string>
+    <string name="status_connected">%1$s Bağlandı </string>
+
+    <string name="action_connect">BAĞLAN</string>
+    <string name="action_disconnect">ÇIKIŞ</string>
+    <string name="action_crlf">CRLF</string>
+    <string name="action_quit">Quit</string>
+
+    <string name="no_bluetooth">Bluetooth is not available on this device.</string>
+    <string name="paired_devices">Choose a paired Bluetooth device</string>
+
+    <string name="command_hint">Enter command here...</string>
+
+    <string name="terminal_message_template">%1$s > %2$s\n</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">Bağlanılacak Aygıtı Seçiniz</string>
+    <string name="none_paired">Cihaz Yok</string>
+    <string name="none_found">Cihaz Bulunamadı</string>
+    <string name="title_paired_devices">Bağlanılacak Cihazı Seçiniz</string>
+    <string name="title_other_devices">Cihaz Aranıyor...</string>
+    <string name="button_scan">Cihaz Tara</string>
+
+</resources>
