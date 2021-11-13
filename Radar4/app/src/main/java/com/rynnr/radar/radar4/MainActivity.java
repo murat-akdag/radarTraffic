@@ -39,7 +39,7 @@ import android.widget.Toast;
 import com.rynnr.radar.library.BluetoothDeviceListDialog;
 import com.rynnr.radar.library.BluetoothSerial;
 import com.rynnr.radar.library.BluetoothSerialListener;
-
+ 
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements BluetoothSerialListener,BluetoothDeviceListDialog.OnDeviceSelectedListener {
